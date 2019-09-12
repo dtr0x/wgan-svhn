@@ -1,0 +1,5 @@
+__pycache__
+svhn
+slurm*
+gan_data
+*.pyc
