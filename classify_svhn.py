@@ -4,8 +4,6 @@ import torchvision.datasets
 import torchvision.transforms as transforms
 from torch.utils.data import dataset
 from torch import nn
-# from torch.nn.modules import upsampling
-# from torch.functional import F
 from torch.optim import Adam
 
 image_transform = transforms.Compose([
